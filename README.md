@@ -1,8 +1,7 @@
-compiladores
-============
+#Compiladores y Lenguajes de Bajo Nivel
 
-Compiladores FPUNA
-
-Autor: Julio Paciello
-Para compilar: gcc anlex.c tablaSimbolos.c -o anlex
-
+Integrante:
+    -Mabel Del Rocio Santacruz Sosa CI:5004580
+Para compilar:
+* gcc anlex.c tablaSimbolos.c -o anlex
+* ./anlex fuente.txt
