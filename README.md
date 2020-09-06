@@ -1,8 +1,5 @@
-#Compiladores y Lenguajes de Bajo Nivel
+# Tarea 1
 
-Integrante:
-    -Mabel Del Rocio Santacruz Sosa CI:5004580
-
-Para compilar:
-* gcc anlex.c tablaSimbolos.c -o anlex
-* ./anlex fuente.txt
+Integrantes: 
+  - Mabel Del Rocio Santacruz Sosa CI: 5.004.580
+  - Gino Junchaya CI: 7.499.674
